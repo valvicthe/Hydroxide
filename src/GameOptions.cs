@@ -1,9 +1,9 @@
 ﻿using AmongUs.GameOptions;
 using Hazel;
-using HydraMenu.features;
-using HydraMenu.network;
+using HydroxideMenu.features;
+using HydroxideMenu.network;
 
-namespace HydraMenu
+namespace HydroxideMenu
 {
 	internal class GameOptions
 	{
