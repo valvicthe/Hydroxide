@@ -1,7 +1,7 @@
-﻿using HydraMenu.network;
+﻿using HydroxideMenu.network;
 using UnityEngine;
 
-namespace HydraMenu.routines
+namespace HydroxideMenu.routines
 {
 	public class AutoTriggerSporesRoutine : IRoutine
 	{
