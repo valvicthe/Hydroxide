@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace HydraMenu.ui.sections
+namespace HydroxideMenu.ui.sections
 {
 	internal class MenuSection : ISection
 	{
