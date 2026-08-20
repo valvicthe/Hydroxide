@@ -1,8 +1,8 @@
-﻿using HydraMenu.ui.sections;
+﻿using HydroxideMenu.ui.sections;
 using System;
 using UnityEngine;
 
-namespace HydraMenu.ui
+namespace HydroxideMenu.ui
 {
 	public class MainUI : MonoBehaviour
 	{
