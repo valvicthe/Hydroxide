@@ -1,7 +1,7 @@
-﻿using HydraMenu.features;
+﻿using HydroxideMenu.features;
 using UnityEngine;
 
-namespace HydraMenu.ui.sections
+namespace HydroxideMenu.ui.sections
 {
 	internal class ProtectionsSection : ISection
 	{
