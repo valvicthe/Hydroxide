@@ -1,4 +1,4 @@
-﻿namespace HydraMenu.ui
+﻿namespace HydroxideMenu.ui
 {
 	public class Notification
 	{
