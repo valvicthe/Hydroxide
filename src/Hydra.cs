@@ -7,11 +7,11 @@ using HydraMenu.routines;
 using HydraMenu.ui;
 using UnityEngine;
 
-namespace HydraMenu;
+namespace HydroxideMenu;
 
-[BepInPlugin("com.mrd.hydramenu", "Hydra", "1.10.0.0")]
+[BepInPlugin("com.vexi.hydroxidemenu", "Hydroxide", "1.0.0.0")]
 [BepInProcess("Among Us.exe")]
-internal class Hydra : BasePlugin
+internal class Hydroxide : BasePlugin
 {
 	internal static new ManualLogSource Log;
 	private static readonly Harmony harmony = new Harmony(MyPluginInfo.PLUGIN_GUID);
