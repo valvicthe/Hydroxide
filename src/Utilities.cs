@@ -1,13 +1,13 @@
 ﻿using AmongUs.GameOptions;
 using Hazel;
-using HydraMenu.network;
+using HydroxideMenu.network;
 using InnerNet;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-using static HydraMenu.network.Constants;
+using static HydroxideMenu.network.Constants;
 
-namespace HydraMenu
+namespace HydroxideMenu
 {
 	internal class Utilities
 	{
