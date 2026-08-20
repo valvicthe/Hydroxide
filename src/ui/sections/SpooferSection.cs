@@ -1,10 +1,10 @@
-﻿using HydraMenu.features;
+﻿using HydroxideMenu.features;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace HydraMenu.ui.sections
+namespace HydroxideMenu.ui.sections
 {
 	internal class SpooferSection : ISection
 	{
@@ -65,6 +65,10 @@ namespace HydraMenu.ui.sections
 			if(GUILayout.Button("+100"))
 			{
 				ClampSelectedLevel(Spoofer.SpoofLevel.newLevel + 100);
+			}
+			if(GUILayout.Button("+1000"))
+			{
+				ClampSelectedLevel(Spoofer.SpoofLevel.newLevel + 1000);
 			}
 			GUILayout.EndHorizontal();
 
