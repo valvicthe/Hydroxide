@@ -1,7 +1,7 @@
-﻿using HydraMenu.anticheat;
+﻿using HydroxideMenu.anticheat;
 using UnityEngine;
 
-namespace HydraMenu.ui.sections
+namespace HydroxideMenu.ui.sections
 {
 	internal class AnticheatSection : ISection
 	{
