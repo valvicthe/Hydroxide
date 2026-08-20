@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace HydraMenu.ui
+namespace HydroxideMenu.ui
 {
 	internal class Styles
 	{
