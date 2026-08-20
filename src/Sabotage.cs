@@ -1,8 +1,8 @@
-﻿using HydraMenu.network;
+﻿using HydroxideMenu.network;
 using Il2CppInterop.Runtime;
 using System.Collections.Generic;
 
-namespace HydraMenu
+namespace HydroxideMenu
 {
 	internal class Sabotage
 	{
