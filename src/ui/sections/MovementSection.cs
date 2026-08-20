@@ -1,8 +1,8 @@
-﻿using HydraMenu.features;
+﻿using HydroxideMenu.features;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace HydraMenu.ui.sections
+namespace HydroxideMenu.ui.sections
 {
 	internal class MovementSection : ISection
 	{
