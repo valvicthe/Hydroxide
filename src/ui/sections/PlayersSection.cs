@@ -1,16 +1,16 @@
 ﻿using AmongUs.Data;
 using AmongUs.GameOptions;
 using BepInEx.Unity.IL2CPP.Utils.Collections;
-using HydraMenu.assets;
-using HydraMenu.features;
-using HydraMenu.network;
+using HydroxideMenu.assets;
+using HydroxideMenu.features;
+using HydroxideMenu.network;
 using InnerNet;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace HydraMenu.ui.sections
+namespace HydroxideMenu.ui.sections
 {
 	internal class PlayersSection : ISection
 	{
