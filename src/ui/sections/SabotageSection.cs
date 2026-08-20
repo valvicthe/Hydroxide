@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace HydraMenu.ui.sections
+namespace HydroxideMenu.ui.sections
 {
 	internal class SabotageSection : ISection
 	{
