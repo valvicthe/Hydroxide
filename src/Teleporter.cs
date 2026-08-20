@@ -1,10 +1,10 @@
 ﻿using Hazel;
-using HydraMenu.features;
-using HydraMenu.network;
+using HydroxideMenu.features;
+using HydroxideMenu.network;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace HydraMenu
+namespace HydroxideMenu
 {
 	internal class Teleporter
 	{
