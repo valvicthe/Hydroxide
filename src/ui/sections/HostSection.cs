@@ -1,6 +1,6 @@
 ﻿using BepInEx.Unity.IL2CPP.Utils.Collections;
-using HydraMenu.features;
-using HydraMenu.network;
+using HydroxideMenu.features;
+using HydroxideMenu.network;
 using InnerNet;
 using System;
 using System.Collections;
@@ -8,7 +8,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.ResourceManagement.AsyncOperations;
 
-namespace HydraMenu.ui.sections
+namespace HydroxideMenu.ui.sections
 {
 	internal class HostSection : ISection
 	{
